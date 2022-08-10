@@ -3,6 +3,7 @@ A192CBCPAD
 A256CBCPAD
 AADDS
 aadiam
+AADKERB
 AADP
 aapl
 AATP
@@ -133,6 +134,7 @@ appteststorage
 appxmanifest
 Appxmanifest
 ARGBARGB
+argmax
 ARIN
 Arima
 Arimax
@@ -165,6 +167,7 @@ australiaeast
 australiasoutheast
 authenticatable
 Authenticode
+authkey
 authorityURL
 authorizationrules
 authpriv
@@ -539,6 +542,7 @@ dataversion
 datawarehouse
 datetimeoffset
 datetimes
+davinci
 Dbinstance
 DBFS
 DCOS
@@ -600,6 +604,7 @@ deviceclass
 deviceclasses
 devicecredentials
 devicegroups
+deviceid
 deviceids
 deviceprovisioningservices
 devicestates
@@ -685,6 +690,7 @@ enablelog
 enablement
 enablescheduling
 ename
+endoftext
 endpointkeys
 endpointname
 endswith
@@ -779,6 +785,8 @@ fileuploadout
 fileurl
 findsimilars
 findsquare
+finetune
+finetunes
 firmwares
 Flexera
 Flowlet
@@ -938,6 +946,7 @@ hybriddatamanager
 Hyperdrive
 Hypernet
 hyperparameters
+hyperparams
 Hyperscale
 hyperv
 hypervcollectors
@@ -964,6 +973,7 @@ imagelists
 imagesearch
 IMDS
 immutabilitypolicy
+Importances
 importcollectors
 importdevices
 Inbuild
@@ -1175,8 +1185,11 @@ managedidentity
 loganalytics
 loggerid
 logio
+logit
+logits
 Logix
 lognormal
+logprobs
 logprofiles
 loguniform
 Logz
@@ -1216,8 +1229,11 @@ managementpartner
 managementpolicy
 manualupgrade
 mapbox
+mapconfiguration
+mapconfigurations
 mapred
 mapreduce
+Maputnik
 mariadb
 Marketo
 marketplaceagreementsapi
@@ -1462,6 +1478,7 @@ ondemandgc
 onedeploy
 onmachine
 omex
+Omnichannel
 onmicrosoft
 ONNX
 Onprem
@@ -1470,6 +1487,7 @@ onpremises
 ONVIF
 oobe
 Oozie
+openai
 openapi
 openbsd
 opencode
@@ -1491,6 +1509,7 @@ Optimisers
 optionalbody
 optmem
 Optmem
+organisation
 originpath
 Orignal
 osdisk
@@ -2165,6 +2184,7 @@ Tful
 Tfvc
 tilejson
 tileset
+tilesetconfiguration
 tilesets
 timeasc
 timedesc
@@ -2325,6 +2345,7 @@ Vcore
 Vcores
 VCPU
 vcsa
+Vectorizer
 versionid
 Vertica
 Vfyc
@@ -2483,6 +2504,10 @@ relationshipdef
 structdef
 typedefs
 testfailover
+tmpfs
+Tmpfs
+npipe
+nocopy
 Orignal
 Onprem
 targetv
@@ -2682,3 +2707,4 @@ Skolt
 Thangmi
 Tuvan
 Uyghur
+Paramter
